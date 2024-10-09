@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\z0050nyy\\Desktop\\asos\\DesignPatternsDemoSol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1774F08-1364-4E06-B62B-88FB89F04AB3}|DesignPatternsDemoTests\\DesignPatternsDemoTests.csproj|c:\\users\\z0050nyy\\desktop\\asos\\designpatternsdemosol\\designpatternsdemotests\\patternstests\\prototypetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1774F08-1364-4E06-B62B-88FB89F04AB3}|DesignPatternsDemoTests\\DesignPatternsDemoTests.csproj|solutionrelative:designpatternsdemotests\\patternstests\\prototypetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFBC0BE-74F5-489F-89E8-C22926F1BE1B}|DesignPatternsDemo\\DesignPatternsDemo.csproj|c:\\users\\z0050nyy\\desktop\\asos\\designpatternsdemosol\\designpatternsdemo\\prototype\\nakup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFBC0BE-74F5-489F-89E8-C22926F1BE1B}|DesignPatternsDemo\\DesignPatternsDemo.csproj|solutionrelative:designpatternsdemo\\prototype\\nakup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFBC0BE-74F5-489F-89E8-C22926F1BE1B}|DesignPatternsDemo\\DesignPatternsDemo.csproj|c:\\users\\z0050nyy\\desktop\\asos\\designpatternsdemosol\\designpatternsdemo\\prototype\\mlieko.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFBC0BE-74F5-489F-89E8-C22926F1BE1B}|DesignPatternsDemo\\DesignPatternsDemo.csproj|solutionrelative:designpatternsdemo\\prototype\\mlieko.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFBC0BE-74F5-489F-89E8-C22926F1BE1B}|DesignPatternsDemo\\DesignPatternsDemo.csproj|c:\\users\\z0050nyy\\desktop\\asos\\designpatternsdemosol\\designpatternsdemo\\prototype\\iprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFBC0BE-74F5-489F-89E8-C22926F1BE1B}|DesignPatternsDemo\\DesignPatternsDemo.csproj|solutionrelative:designpatternsdemo\\prototype\\iprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFBC0BE-74F5-489F-89E8-C22926F1BE1B}|DesignPatternsDemo\\DesignPatternsDemo.csproj|c:\\users\\z0050nyy\\desktop\\asos\\designpatternsdemosol\\designpatternsdemo\\designpatternsdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9EFBC0BE-74F5-489F-89E8-C22926F1BE1B}|DesignPatternsDemo\\DesignPatternsDemo.csproj|solutionrelative:designpatternsdemo\\designpatternsdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFBC0BE-74F5-489F-89E8-C22926F1BE1B}|DesignPatternsDemo\\DesignPatternsDemo.csproj|c:\\users\\z0050nyy\\desktop\\asos\\designpatternsdemosol\\designpatternsdemo\\builder\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFBC0BE-74F5-489F-89E8-C22926F1BE1B}|DesignPatternsDemo\\DesignPatternsDemo.csproj|solutionrelative:designpatternsdemo\\builder\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1774F08-1364-4E06-B62B-88FB89F04AB3}|DesignPatternsDemoTests\\DesignPatternsDemoTests.csproj|c:\\users\\z0050nyy\\desktop\\asos\\designpatternsdemosol\\designpatternsdemotests\\patternstests\\buildertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1774F08-1364-4E06-B62B-88FB89F04AB3}|DesignPatternsDemoTests\\DesignPatternsDemoTests.csproj|solutionrelative:designpatternsdemotests\\patternstests\\buildertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFBC0BE-74F5-489F-89E8-C22926F1BE1B}|DesignPatternsDemo\\DesignPatternsDemo.csproj|c:\\users\\z0050nyy\\desktop\\asos\\designpatternsdemosol\\designpatternsdemo\\builder\\productbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFBC0BE-74F5-489F-89E8-C22926F1BE1B}|DesignPatternsDemo\\DesignPatternsDemo.csproj|solutionrelative:designpatternsdemo\\builder\\productbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrototypeTests.cs",
+              "DocumentMoniker": "C:\\Users\\z0050nyy\\Desktop\\asos\\DesignPatternsDemoSol\\DesignPatternsDemoTests\\PatternsTests\\PrototypeTests.cs",
+              "RelativeDocumentMoniker": "DesignPatternsDemoTests\\PatternsTests\\PrototypeTests.cs",
+              "ToolTip": "C:\\Users\\z0050nyy\\Desktop\\asos\\DesignPatternsDemoSol\\DesignPatternsDemoTests\\PatternsTests\\PrototypeTests.cs",
+              "RelativeToolTip": "DesignPatternsDemoTests\\PatternsTests\\PrototypeTests.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwB8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:13:16.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Nakup.cs",
+              "DocumentMoniker": "C:\\Users\\z0050nyy\\Desktop\\asos\\DesignPatternsDemoSol\\DesignPatternsDemo\\Prototype\\Nakup.cs",
+              "RelativeDocumentMoniker": "DesignPatternsDemo\\Prototype\\Nakup.cs",
+              "ToolTip": "C:\\Users\\z0050nyy\\Desktop\\asos\\DesignPatternsDemoSol\\DesignPatternsDemo\\Prototype\\Nakup.cs",
+              "RelativeToolTip": "DesignPatternsDemo\\Prototype\\Nakup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:10:54.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mlieko.cs",
+              "DocumentMoniker": "C:\\Users\\z0050nyy\\Desktop\\asos\\DesignPatternsDemoSol\\DesignPatternsDemo\\Prototype\\Mlieko.cs",
+              "RelativeDocumentMoniker": "DesignPatternsDemo\\Prototype\\Mlieko.cs",
+              "ToolTip": "C:\\Users\\z0050nyy\\Desktop\\asos\\DesignPatternsDemoSol\\DesignPatternsDemo\\Prototype\\Mlieko.cs",
+              "RelativeToolTip": "DesignPatternsDemo\\Prototype\\Mlieko.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:09:11.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPrototype.cs",
+              "DocumentMoniker": "C:\\Users\\z0050nyy\\Desktop\\asos\\DesignPatternsDemoSol\\DesignPatternsDemo\\Prototype\\IPrototype.cs",
+              "RelativeDocumentMoniker": "DesignPatternsDemo\\Prototype\\IPrototype.cs",
+              "ToolTip": "C:\\Users\\z0050nyy\\Desktop\\asos\\DesignPatternsDemoSol\\DesignPatternsDemo\\Prototype\\IPrototype.cs",
+              "RelativeToolTip": "DesignPatternsDemo\\Prototype\\IPrototype.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:08:42.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DesignPatternsDemo",
+              "DocumentMoniker": "C:\\Users\\z0050nyy\\Desktop\\asos\\DesignPatternsDemoSol\\DesignPatternsDemo\\DesignPatternsDemo.csproj",
+              "RelativeDocumentMoniker": "DesignPatternsDemo\\DesignPatternsDemo.csproj",
+              "ToolTip": "C:\\Users\\z0050nyy\\Desktop\\asos\\DesignPatternsDemoSol\\DesignPatternsDemo\\DesignPatternsDemo.csproj",
+              "RelativeToolTip": "DesignPatternsDemo\\DesignPatternsDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-03T09:06:54.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BuilderTests.cs",
+              "DocumentMoniker": "C:\\Users\\z0050nyy\\Desktop\\asos\\DesignPatternsDemoSol\\DesignPatternsDemoTests\\PatternsTests\\BuilderTests.cs",
+              "RelativeDocumentMoniker": "DesignPatternsDemoTests\\PatternsTests\\BuilderTests.cs",
+              "ToolTip": "C:\\Users\\z0050nyy\\Desktop\\asos\\DesignPatternsDemoSol\\DesignPatternsDemoTests\\PatternsTests\\BuilderTests.cs",
+              "RelativeToolTip": "DesignPatternsDemoTests\\PatternsTests\\BuilderTests.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:57:07.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\z0050nyy\\Desktop\\asos\\DesignPatternsDemoSol\\DesignPatternsDemo\\Builder\\ProductBuilder.cs",
+              "RelativeDocumentMoniker": "DesignPatternsDemo\\Builder\\ProductBuilder.cs",
+              "ToolTip": "C:\\Users\\z0050nyy\\Desktop\\asos\\DesignPatternsDemoSol\\DesignPatternsDemo\\Builder\\ProductBuilder.cs",
+              "RelativeToolTip": "DesignPatternsDemo\\Builder\\ProductBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:54:33.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\z0050nyy\\Desktop\\asos\\DesignPatternsDemoSol\\DesignPatternsDemo\\Builder\\Product.cs",
+              "RelativeDocumentMoniker": "DesignPatternsDemo\\Builder\\Product.cs",
+              "ToolTip": "C:\\Users\\z0050nyy\\Desktop\\asos\\DesignPatternsDemoSol\\DesignPatternsDemo\\Builder\\Product.cs",
+              "RelativeToolTip": "DesignPatternsDemo\\Builder\\Product.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:52:29.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
