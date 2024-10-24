@@ -12,3 +12,4 @@ C:\Users\z0050nyy\Desktop\asos\DesignPatternsDemoSol\DesignPatternsDemo\obj\Debu
 C:\Users\z0050nyy\Desktop\asos\DesignPatternsDemoSol\DesignPatternsDemo\obj\Debug\net8.0\DesignPatternsDemo.pdb
 C:\Users\z0050nyy\Desktop\asos\DesignPatternsDemoSol\DesignPatternsDemo\obj\Debug\net8.0\DesignPatternsDemo.genruntimeconfig.cache
 C:\Users\z0050nyy\Desktop\asos\DesignPatternsDemoSol\DesignPatternsDemo\obj\Debug\net8.0\ref\DesignPatternsDemo.dll
+C:\Users\z0050nyy\Desktop\asos\DesignPatternsDemoSol\DesignPatternsDemo\obj\Debug\net8.0\DesignPatternsDemo.sourcelink.json

@@ -103,3 +103,4 @@ C:\Users\z0050nyy\Desktop\asos\DesignPatternsDemoSol\DesignPatternsDemoTests\bin
 C:\Users\z0050nyy\Desktop\asos\DesignPatternsDemoSol\DesignPatternsDemoTests\bin\Debug\net8.0\DesignPatternsDemo.exe
 C:\Users\z0050nyy\Desktop\asos\DesignPatternsDemoSol\DesignPatternsDemoTests\bin\Debug\net8.0\DesignPatternsDemo.dll
 C:\Users\z0050nyy\Desktop\asos\DesignPatternsDemoSol\DesignPatternsDemoTests\bin\Debug\net8.0\DesignPatternsDemo.pdb
+C:\Users\z0050nyy\Desktop\asos\DesignPatternsDemoSol\DesignPatternsDemoTests\obj\Debug\net8.0\DesignPatternsDemoTests.sourcelink.json
